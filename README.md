@@ -1,2 +1,2 @@
-# TorsdagsOpgaver16
+# TorsdagsOpgaver
 
